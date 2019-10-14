@@ -8,3 +8,5 @@ def sumNumbers(num):
 
 result=sumNumbers(100)
 print(result)
+
+print(oo)
