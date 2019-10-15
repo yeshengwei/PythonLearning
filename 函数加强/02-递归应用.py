@@ -2,10 +2,10 @@
 # 必须有出口
 
 def sumNumbers(num):
-    if num==1:
-        return 1
+    # if num==1:
+    #     return 1
     return num+sumNumbers(num-1)
 
-result=sumNumbers(100)
+result=sumNumbers(10)
 print(result)
 
