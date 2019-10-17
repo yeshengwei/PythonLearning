@@ -1,5 +1,5 @@
 name = "yeshengwei"
-age = 33
+age = 28
 
 print("我的名字是%s,今年%d岁了。" % (name, age))
 

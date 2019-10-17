@@ -89,7 +89,7 @@ while True:
     infoPrint()
 
     # 用户选择功能
-    userNum = int(input("请选择您需要功能："))
+    userNum = int(input("请选择您需要的功能："))
 
     # 根据用户输入的序号执行不同的函数
     if userNum == 1:

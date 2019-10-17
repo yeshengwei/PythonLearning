@@ -2,103 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a5e491-5869-41da-8f5a-455e54649385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01基础入门/00-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/01基础入门/00-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07文件操作/08-文件备份实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07文件操作/09-文件和文件夹操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07文件操作/test-backup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01基础入门/01-print打印输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/01基础入门/01-print打印输出.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01基础入门/02-转义字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01基础入门/02-转义字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01基础入门/03-字符串格式化打印.py" beforeDir="false" afterPath="$PROJECT_DIR$/01基础入门/03-字符串格式化打印.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01基础入门/04-打印数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/01基础入门/04-打印数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/01-if-elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/01-if-elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/02-if语句嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/02-if语句嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/03-if-else猜拳游戏.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/03-if-else猜拳游戏.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/04-if语句扩展.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/04-if语句扩展.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/05-while循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/05-while循环.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/06-while计算1-100和.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/06-while计算1-100和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/07-while-if.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/07-while-if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/08-while-continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/08-while-continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/09-while循环嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/09-while循环嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/11-矩形星号打印.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/11-矩形星号打印.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/12-三角形星号打印.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/12-三角形星号打印.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/13-while-九九乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/13-while-九九乘法表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/14-for-if-break.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/14-for-if-break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/15-for-continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/15-for-continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/16-while-if-else.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/16-while-if-else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02流程控制/17-for循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/02流程控制/17-for循环.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/01-字符串认识.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/01-字符串认识.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/02-字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/02-字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/03-字符串下标切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/03-字符串下标切片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/04-字符串查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/04-字符串查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/05-字符串替换分割连接.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/05-字符串替换分割连接.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/06-字符串修改大小写.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/06-字符串修改大小写.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/07-字符串操作删除空白.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/07-字符串操作删除空白.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/08-字符串操作对齐.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/08-字符串操作对齐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/09-字符串操作-判断开关结尾.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/09-字符串操作-判断开关结尾.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/10-字符串操作-判断.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/10-字符串操作-判断.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/11-列表的操作-查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/11-列表的操作-查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/12-列表的操作-判断.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/12-列表的操作-判断.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/13-列表的操作-判断案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/13-列表的操作-判断案例.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/14-列表的操作-增加数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/14-列表的操作-增加数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/15-列表的操作-删除数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/15-列表的操作-删除数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/16-列表的操作-修改数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/16-列表的操作-修改数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/17-列表的操作-复制.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/17-列表的操作-复制.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/18-列表的操作-while遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/18-列表的操作-while遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/19-列表的操作-for遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/19-列表的操作-for遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/20-列表的操作-嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/20-列表的操作-嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/21-列表的应用—分配办公室.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/21-列表的应用—分配办公室.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/22-体验元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/22-体验元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/23-元组的操作-查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/23-元组的操作-查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/24-元组的操作-修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/24-元组的操作-修改.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/25-字典的操作-创建字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/25-字典的操作-创建字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/26-字典的操作-增加.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/26-字典的操作-增加.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/27-字典的操作-删除.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/27-字典的操作-删除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/28-字典的操作-修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/28-字典的操作-修改.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/29-字典的操作-查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/29-字典的操作-查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/30-字典的循环遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/30-字典的循环遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/31-元组拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/31-元组拆包.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/32-字典拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/32-字典拆包.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/33-交换变量值.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/33-交换变量值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/34-变量的引用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/34-变量的引用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03数据序列/35-引用实参传入.py" beforeDir="false" afterPath="$PROJECT_DIR$/03数据序列/35-引用实参传入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/01-定义函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/01-定义函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/02-函数体验-ATM取钱.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/02-函数体验-ATM取钱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/03-函数参数作用.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/03-函数参数作用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/04-函数的返回值.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/04-函数的返回值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/05-函数定义说明文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/05-函数定义说明文档.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/06-函数嵌套调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/06-函数嵌套调用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/07-函数嵌套调用应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/07-函数嵌套调用应用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/08-函数嵌套调用应用-计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/08-函数嵌套调用应用-计算.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/09-变量的作用域-局部变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/09-变量的作用域-局部变量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/10-变量的作用域-全局变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/10-变量的作用域-全局变量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/11-全局变量的修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/11-全局变量的修改.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/12-多函数执行流程.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/12-多函数执行流程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/13-返回值参数传递.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/13-返回值参数传递.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/14-函数返回值-多个.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/14-函数返回值-多个.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/15-函数参数-位置参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/15-函数参数-位置参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/16-函数参数-关键字参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/16-函数参数-关键字参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/17-函数参数-缺省参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/17-函数参数-缺省参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/18-函数参数-不定长参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/18-函数参数-不定长参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04函数学习/19-函数参数-不定长关键字参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/04函数学习/19-函数参数-不定长关键字参数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/02-递归应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/02-递归应用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/03-匿名函数-lambda体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/03-匿名函数-lambda体验.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/04-匿名函数-lambda计算累加之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/04-匿名函数-lambda计算累加之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/05-匿名函数-lambda参数之无参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/05-匿名函数-lambda参数之无参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/06-匿名函数-lambda参数之一个参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/06-匿名函数-lambda参数之一个参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/07-匿名函数-lambda参数之默认参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/07-匿名函数-lambda参数之默认参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/08-匿名函数-lambda参数之可变参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/08-匿名函数-lambda参数之可变参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/09-匿名函数-lambda带判断.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/09-匿名函数-lambda带判断.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05函数加强/10-列表数据按字典key值排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/10-列表数据按字典key值排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06高阶函数/01-体验高阶函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/06高阶函数/01-体验高阶函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06高阶函数/02-高阶函数代码实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/06高阶函数/02-高阶函数代码实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06高阶函数/03-内置高阶函数之map.py" beforeDir="false" afterPath="$PROJECT_DIR$/06高阶函数/03-内置高阶函数之map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06高阶函数/04-内置高阶函数之reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/06高阶函数/04-内置高阶函数之reduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06高阶函数/05-内置高阶函数之filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/06高阶函数/05-内置高阶函数之filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/01-体验文件操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/01-体验文件操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/02-主访问模式的特点01.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/02-主访问模式的特点01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/03-读取函数之read.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/03-读取函数之read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/04-读取函数之readlines.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/04-读取函数之readlines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/05-读取函数之readline.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/05-读取函数之readline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/06-主访问模式的特点02.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/06-主访问模式的特点02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/07-文件操作seek函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/07文件操作/07-文件操作seek函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07文件操作/test2.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,31 +19,61 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01基础入门/00-test.py">
+        <entry file="file://$PROJECT_DIR$/07文件操作/08-文件备份实现.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07文件操作/09-文件和文件夹操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03数据序列/03-字符串下标切片.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01基础入门/02-转义字符.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01基础入门/03-字符串格式化打印.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01基础入门/04-打印数据类型.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02流程控制/01-if-elif.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02流程控制/02-if语句嵌套.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02流程控制/03-if-else猜拳游戏.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07文件操作/01-体验文件操作.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02流程控制/09-while循环嵌套.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -157,9 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/000-test.py" />
-        <option value="D:/Program Files/Tencent/QQ/94482733/FileRecv/支付宝能量森林.py" />
-        <option value="$PROJECT_DIR$/../PlaneWar02/main.py" />
         <option value="$PROJECT_DIR$/函数学习/07-函数嵌套调用应用.py" />
         <option value="$PROJECT_DIR$/函数学习/08-函数嵌套调用应用-计算.py" />
         <option value="$PROJECT_DIR$/函数学习/09-变量的作用域.py" />
@@ -208,6 +145,9 @@
         <option value="$PROJECT_DIR$/文件操作/06-主访问模式的特点02.py" />
         <option value="$PROJECT_DIR$/文件操作/test2.txt" />
         <option value="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" />
+        <option value="$PROJECT_DIR$/01基础入门/01-print打印输出.py" />
+        <option value="$PROJECT_DIR$/07文件操作/08-文件备份实现.py" />
+        <option value="$PROJECT_DIR$/07文件操作/09-文件和文件夹操作.py" />
       </list>
     </option>
   </component>
@@ -250,22 +190,18 @@
             <path>
               <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\yeshengwei\PycharmProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04函数学习" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\yeshengwei\PycharmProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="05函数加强" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\yeshengwei\PycharmProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="06高阶函数" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="07文件操作" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\yeshengwei\PycharmProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="07文件操作" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="python" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -313,6 +249,58 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.09-文件和文件夹操作">
+    <configuration name="08-文件备份实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07文件操作/08-文件备份实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09-文件和文件夹操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07文件操作/09-文件和文件夹操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.09-文件和文件夹操作" />
+        <item itemvalue="Python.08-文件备份实现" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -357,7 +345,7 @@
       <workItem from="1571099792055" duration="15165000" />
       <workItem from="1571186574089" duration="9398000" />
       <workItem from="1571276212000" duration="4512000" />
-      <workItem from="1571284160609" duration="2024000" />
+      <workItem from="1571284160609" duration="8773000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571041666584</created>
@@ -436,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571284542752</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1571291623611</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291623612</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166779000" />
+    <option name="totallyTimeSpent" value="173528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,14 +448,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.21488096" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.19263607" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3852909" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36992317" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846322" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -524,6 +518,7 @@
     <SUITE FILE_PATH="coverage/untitled$036__.coverage" NAME="036-列表的操作-修改数据 Coverage Results" MODIFIED="1569648389749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$028_.coverage" NAME="028-字符串操作对齐 Coverage Results" MODIFIED="1569567244298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$050_.coverage" NAME="050-字典的循环遍历 Coverage Results" MODIFIED="1570257641959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$08_.coverage" NAME="08-文件备份实现 Coverage Results" MODIFIED="1571298277565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07文件操作" />
     <SUITE FILE_PATH="coverage/untitled$.coverage" NAME="支付宝能量森林 Coverage Results" MODIFIED="1570262199108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Tencent/QQ/94482733/FileRecv" />
     <SUITE FILE_PATH="coverage/untitled$003.coverage" NAME="003 Coverage Results" MODIFIED="1569303788558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$038__.coverage" NAME="038-列表的操作-遍历 Coverage Results" MODIFIED="1569665272221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -562,7 +557,7 @@
     <SUITE FILE_PATH="coverage/untitled$045__.coverage" NAME="045-字典的操作-创建字典 Coverage Results" MODIFIED="1569824344754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$035__.coverage" NAME="035-列表的操作-删除 Coverage Results" MODIFIED="1569647600573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$017.coverage" NAME="017 Coverage Results" MODIFIED="1569480650706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$09_.coverage" NAME="09-变量的作用域 Coverage Results" MODIFIED="1570675323150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
+    <SUITE FILE_PATH="coverage/untitled$09_.coverage" NAME="09-文件和文件夹操作 Coverage Results" MODIFIED="1571301953318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07文件操作" />
     <SUITE FILE_PATH="coverage/untitled$033__.coverage" NAME="033-列表的操作-判断案例 Coverage Results" MODIFIED="1569570064536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$043__.coverage" NAME="043-元组的操作-查找 Coverage Results" MODIFIED="1569822361218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$12_.coverage" NAME="12-多函数执行流程 Coverage Results" MODIFIED="1570679478478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
@@ -598,97 +593,6 @@
     <SUITE FILE_PATH="coverage/untitled$051_.coverage" NAME="051-元组拆包 Coverage Results" MODIFIED="1570695454921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/函数学习/09-变量的作用域-局部变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/10-变量的作用域-全局变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/11-全局变量的修改.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/12-多函数执行流程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/13-返回值参数传递.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/14-函数返回值-多个.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/15-函数参数-位置参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/16-函数参数-关键字参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/17-函数参数-缺省参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/18-函数参数-不定长参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数学习/19-函数参数-不定长关键字参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/051-元组拆包.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/052-字典拆包.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/053-交换变量值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -906,20 +810,71 @@
     <entry file="file://$PROJECT_DIR$/01基础入门/00-test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/07文件操作/01-体验文件操作.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02流程控制/09-while循环嵌套.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/07-文件操作seek函数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01基础入门/01-print打印输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01基础入门/02-转义字符.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01基础入门/03-字符串格式化打印.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01基础入门/04-打印数据类型.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02流程控制/01-if-elif.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02流程控制/02-if语句嵌套.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02流程控制/03-if-else猜拳游戏.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/01-体验文件操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/test-backup.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/08-文件备份实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03数据序列/03-字符串下标切片.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07文件操作/09-文件和文件夹操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
