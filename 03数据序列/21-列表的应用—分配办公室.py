@@ -1,9 +1,10 @@
-#8位老师分配到3个办公室
+# 8位老师分配到3个办公室
 import random
-teachers=["li","ye","zhang","wang","zhou","huang","xie","wei"]
-offices=[[],[],[]]
+
+teachers = ["li", "ye", "zhang", "wang", "zhou", "huang", "xie", "wei"]
+offices = [[], [], []]
 for i in teachers:
-    num=random.randint(0,2)
+    num = random.randint(0, 2)
     offices[num].append(i)
 o = 1
 for office in offices:
@@ -11,4 +12,4 @@ for office in offices:
     for name in office:
         print(name)
 
-    o+=1
+    o += 1

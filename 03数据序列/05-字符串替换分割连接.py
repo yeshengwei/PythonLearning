@@ -16,6 +16,6 @@ list=mystr.split("and",2)
 print(list)
 """
 
-list =["aa","bb","cc","dd"]
+list = ["aa", "bb", "cc", "dd"]
 newlist = "...".join(list)
 print(newlist)

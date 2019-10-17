@@ -1,11 +1,11 @@
-mystr="   my name is Python   "
+mystr = "   my name is Python   "
 print(mystr)
 
-newstr=mystr.lstrip()
+newstr = mystr.lstrip()
 print(newstr)
 
-newstr=mystr.rstrip()
+newstr = mystr.rstrip()
 print(newstr)
 
-newstr=mystr.strip()
+newstr = mystr.strip()
 print(newstr)

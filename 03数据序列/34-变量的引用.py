@@ -9,8 +9,8 @@
 # print()
 #
 
-x=[3,100,9]
-y=x
+x = [3, 100, 9]
+y = x
 
 print(id(x))
 print(id(y))

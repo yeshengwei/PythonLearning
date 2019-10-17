@@ -1,4 +1,4 @@
-list=["a","b","c","d","e"]
+list = ["a", "b", "c", "d", "e"]
 print("a" in list)
 
 print("i" in list)

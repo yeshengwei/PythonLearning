@@ -1,2 +1,2 @@
-func1=lambda :100
+func1 = lambda: 100
 print(func1())

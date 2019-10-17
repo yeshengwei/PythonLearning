@@ -4,10 +4,11 @@
 # print(result)
 
 
-def jsq(x,y):
-    return x+y
+def jsq(x, y):
+    return x + y
 
-result=jsq(3,4)
+
+result = jsq(3, 4)
 print(result)
 
 help(jsq)

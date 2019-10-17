@@ -1,9 +1,10 @@
 def func():
     return 8000
 
+
 def func2(num):
     print(num)
 
 
-result=func()
+result = func()
 print(result)

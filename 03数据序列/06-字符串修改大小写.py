@@ -1,12 +1,12 @@
-mystr="my name is Python"
-newstr=mystr.capitalize()
+mystr = "my name is Python"
+newstr = mystr.capitalize()
 print(newstr)
 
-newstr=mystr.title()
+newstr = mystr.title()
 print(newstr)
 
-newstr=mystr.upper()
+newstr = mystr.upper()
 print(newstr)
 
-newstr=mystr.lower()
+newstr = mystr.lower()
 print(newstr)

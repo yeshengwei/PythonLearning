@@ -1,12 +1,15 @@
-globalNum=5
+globalNum = 5
+
 
 def func1():
     global globalNum
-    globalNum=200
+    globalNum = 200
     print(globalNum)
+
 
 def func2():
     print(globalNum)
+
 
 func2()
 func1()

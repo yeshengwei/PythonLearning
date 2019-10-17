@@ -10,11 +10,10 @@
 # file.close()
 
 
-
 # file=open("test.txt","a")
 # file.write("wwwwwwwwwwwwwwwwwww")
 # file.close()
 
 
-file=open("test.txt")
+file = open("test.txt")
 file.close()
