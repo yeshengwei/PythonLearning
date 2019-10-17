@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a5e491-5869-41da-8f5a-455e54649385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/文件操作/01-体验文件操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/02-主访问模式的特点01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/03-读取函数之read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/04-读取函数之readlines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/05-读取函数之readline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/06-主访问模式的特点02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件操作/07-文件操作seek函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数加强/02-递归应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/函数加强/02-递归应用.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/文件操作/07-文件操作seek函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="66">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -431,7 +423,7 @@
       <workItem from="1571016738064" duration="15722000" />
       <workItem from="1571099792055" duration="15165000" />
       <workItem from="1571186574089" duration="9398000" />
-      <workItem from="1571276212000" duration="2096000" />
+      <workItem from="1571276212000" duration="2908000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571041666584</created>
@@ -468,11 +460,25 @@
       <option name="project" value="LOCAL" />
       <updated>1571130050225</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1571279909391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571279909391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1571280004130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571280004130</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162339000" />
+    <option name="totallyTimeSpent" value="163151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -969,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/文件操作/07-文件操作seek函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
