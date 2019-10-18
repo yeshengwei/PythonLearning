@@ -22,6 +22,9 @@ import os
 # os.mkdir("python")
 
 # 列出目录
-list1 = os.listdir()
-for i in list1:
-    print(i)
+# list1=os.listdir()
+# for i in list1:
+#     print(i)
+
+# 重命令文件夹
+# os.rename("python","test")
