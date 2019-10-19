@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a5e491-5869-41da-8f5a-455e54649385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (10).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (11).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (12).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (13).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (14).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (15).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (16).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (17).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (18).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (3).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (4).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (5).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (6).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (7).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (8).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本 (9).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档 - 副本.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07文件操作/test/python-建文本文档.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="130" />
+    <option name="x" value="194" />
+    <option name="y" value="133" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -304,7 +281,7 @@
       <workItem from="1571407031836" duration="484000" />
       <workItem from="1571407538992" duration="772000" />
       <workItem from="1571408334471" duration="396000" />
-      <workItem from="1571486434117" duration="1095000" />
+      <workItem from="1571486434117" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571041666584</created>
@@ -418,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571407324855</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1571487763543</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571487763543</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199741000" />
+    <option name="totallyTimeSpent" value="201530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,9 +418,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="644" y="64" width="1440" height="780" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.2234375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.30126405" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.19263607" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -450,7 +434,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943678" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3209352" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.7069155" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.9548872" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.6891304" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
