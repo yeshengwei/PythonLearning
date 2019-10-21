@@ -46,3 +46,5 @@ print(home1)
 home1.addFurniture(zhuozi)
 print(home1)
 
+home1.addFurniture(chuang)
+print(home1)
