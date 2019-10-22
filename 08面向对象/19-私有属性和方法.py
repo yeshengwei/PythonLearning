@@ -14,14 +14,22 @@ class School(object):
     def makeCake(self):
         print(f"使用{self.kongfu}制作果子")
 
-#子类
-class Prentice(School,Master):
+
+class Prentice(Master,School):
     def __init__(self):
         self.kongfu="独创煎饼果子配方"
+        #私有属性
+        self.__money=20000000000
+
+    #定义私有方法
+    def __infoPrint(self):
+        print("私有方法")
+
 
     def makeCake(self):
         self.__init__()
         print(f"使用{self.kongfu}制作果子")
+
 
     #调用父类Master的同名的方法和属性
     def makeMasterCake(self):
@@ -32,14 +40,21 @@ class Prentice(School,Master):
         School.__init__(self)
         School.makeCake(self)
 
-#孙类
+
+#创建孙类
 class Sun(Prentice):
     pass
 
 #创建对象xiaoqiu
 xiaoqiu=Sun()
 
-#调用继承父类的所有方法
-xiaoqiu.makeCake()
-xiaoqiu.makeMasterCake()
-xiaoqiu.makeSchoolCake()
+#打印私有属性
+# print(xiaoqiu.money)
+
+#调用私有方法
+xiaoqiu.infoPrint()
+
+
+
+
+
