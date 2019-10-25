@@ -76,8 +76,8 @@ class StudentManager():
                 i.tel = input("请输入学员电话：")
                 print(f"学员信息修改成功!姓名是:{i.name},性别是:{i.gender},电话是:{i.tel}。")
                 break
-            else:
-                print("学员不存在，请重新输入！")
+        else:
+            print("学员不存在，请重新输入！")
 
     # 查询学员信息
     def searchStudent(self):
@@ -119,7 +119,7 @@ class StudentManager():
         else:
             data = f.read()
             newList = eval(data)
-            self.studentlist = [Student(i["name"], i["gender", i["tel"]]) for i in newList]
+            self.studentlist = [Student(i["name"], i["gender"], i["tel"]) for i in newList]
         # 关闭文件
         finally:
             f.close()
