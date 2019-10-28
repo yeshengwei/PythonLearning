@@ -15,23 +15,25 @@ class StudentManager():
             self.showMenu()
 
             # 用户输入功能菜单
-            menunum = int(input("请选择您需要的功能："))
+            menunum = input("请选择您需要的功能：")
 
             # 根据用户输入执行不同的功能
-            if menunum == 1:
+            if menunum == "1":
                 self.addStudent()
-            elif menunum == 2:
+            elif menunum == "2":
                 self.delStudent()
-            elif menunum == 3:
+            elif menunum == "3":
                 self.modifyStudent()
-            elif menunum == 4:
+            elif menunum == "4":
                 self.searchStudent()
-            elif menunum == 5:
+            elif menunum == "5":
                 self.showStudent()
-            elif menunum == 6:
+            elif menunum == "6":
                 self.saveStudent()
-            elif menunum == 7:
+            elif menunum == "7":
                 break
+            else:
+                print("您输入的选项无效，请重新输入！")
 
     # 二、系统功能函数
     # 显示功能菜单

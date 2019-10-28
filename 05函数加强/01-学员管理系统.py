@@ -89,20 +89,20 @@ while True:
     infoPrint()
 
     # 用户选择功能
-    userNum = int(input("请选择您需要的功能："))
+    userNum = input("请选择您需要的功能：")
 
     # 根据用户输入的序号执行不同的函数
-    if userNum == 1:
+    if userNum == "1":
         addInfo()
-    elif userNum == 2:
+    elif userNum == "2":
         delInfo()
-    elif userNum == 3:
+    elif userNum == "3":
         modifyInfo()
-    elif userNum == 4:
+    elif userNum == "4":
         searchInfo()
-    elif userNum == 5:
+    elif userNum == "5":
         printAll()
-    elif userNum == 6:
+    elif userNum == "6":
         exitFlag = input("您确定要退出系统吗？请输入 yes or no ：")
         if exitFlag == "yes":
             break

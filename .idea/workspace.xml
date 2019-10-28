@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a5e491-5869-41da-8f5a-455e54649385" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.data" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/main.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/main.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/warn-main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/warn-main.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/build/main/xref-main.html" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/build/main/xref-main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main.zip" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/VCRUNTIME140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/VCRUNTIME140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/_bz2.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/_bz2.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/_hashlib.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/_hashlib.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/_lzma.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/_lzma.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/_socket.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/_socket.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/_ssl.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/_ssl.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/libcrypto-1_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/libcrypto-1_1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/libssl-1_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/libssl-1_1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/main.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/main.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/pyexpat.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/pyexpat.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/python37.dll" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/python37.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/select.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/select.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/student.data" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/student.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/dist/main/unicodedata.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/dist/main/unicodedata.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/main.spec" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/main.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.data" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/student.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/11项目实战/01-学生管理系统/student.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +48,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1716">
+              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="104" column="22" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,11 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08面向对象/06-体验魔法方法init.py" />
-        <option value="$PROJECT_DIR$/08面向对象/07-带参数的init.py" />
-        <option value="$PROJECT_DIR$/08面向对象/08-魔法方法str.py" />
-        <option value="$PROJECT_DIR$/08面向对象/09-面向对象的应用-烤地瓜.py" />
-        <option value="$PROJECT_DIR$/08面向对象/10-面向对象的应用-搬家具.py" />
         <option value="$PROJECT_DIR$/08面向对象/10-面向对象的应用-搬家具.py" />
         <option value="$PROJECT_DIR$/08面向对象/11-体验继承.py" />
         <option value="$PROJECT_DIR$/08面向对象/012-单继承.py" />
@@ -85,14 +134,19 @@
         <option value="$PROJECT_DIR$/11项目实战/01-扩展__dict__.py" />
         <option value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.py" />
         <option value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" />
+        <option value="$PROJECT_DIR$/../PythonCrawler/01.py" />
+        <option value="$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py" />
+        <option value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py" />
+        <option value="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" />
+        <option value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1440" />
-    <option name="height" value="780" />
+    <option name="y" value="3" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,7 +175,28 @@
           <expand>
             <path>
               <item name="Python入门与实战" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\yeshengwei\PycharmProjects\PythonCrawler" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Python入门与实战" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Python入门与实战" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="11项目实战" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Python入门与实战" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="11项目实战" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="01-学生管理系统" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Python入门与实战" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="11项目实战" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="02-名片管理系统" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -178,8 +253,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="01-扩展__dict__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cards_main">
+    <configuration name="01-学员管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +262,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05函数加强" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/01-扩展__dict__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-导入包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +284,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10模块与包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/02-名片管理系统" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10模块与包/06-导入包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +306,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/02-名片管理系统" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="managersystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +328,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/01-学生管理系统" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/01-学生管理系统/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +342,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="managersystem (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +350,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11项目实战/01-学生管理系统" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.01-扩展__dict__" />
-        <item itemvalue="Python.managersystem" />
-        <item itemvalue="Python.student" />
-        <item itemvalue="Python.06-导入包" />
+        <item itemvalue="Python.cards_main" />
+        <item itemvalue="Python.cards_tools" />
+        <item itemvalue="Python.01-学员管理系统" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.managersystem (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +431,9 @@
       <workItem from="1571792281982" duration="20067000" />
       <workItem from="1571880308442" duration="16529000" />
       <workItem from="1571969234607" duration="3949000" />
-      <workItem from="1571991873759" duration="19000" />
+      <workItem from="1571991873759" duration="1665000" />
+      <workItem from="1572224940922" duration="762000" />
+      <workItem from="1572230680005" duration="14504000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571041666584</created>
@@ -519,11 +596,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571907533415</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update">
+      <created>1571992075189</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1571992075189</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273012000" />
+    <option name="totallyTimeSpent" value="289924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,13 +620,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.19940476" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.21309523" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.19263607" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32821077" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49940476" weight="0.36553237" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49940476" weight="0.5192097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846322" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,7 +636,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943678" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005952" side_tool="true" weight="0.18331504" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.70581776" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.7047201" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.6891304" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -589,11 +674,13 @@
     <SUITE FILE_PATH="coverage/untitled$03_map.coverage" NAME="03-内置高阶函数之map Coverage Results" MODIFIED="1571125437651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高阶函数" />
     <SUITE FILE_PATH="coverage/Python$23_.coverage" NAME="23-修改类属性 Coverage Results" MODIFIED="1571730737047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/Python$10__.coverage" NAME="10-面向对象的应用-搬家具 Coverage Results" MODIFIED="1571491973366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
+    <SUITE FILE_PATH="coverage/Python$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1572253734127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/02-名片管理系统" />
     <SUITE FILE_PATH="coverage/untitled$047__.coverage" NAME="047-字典的操作-删除 Coverage Results" MODIFIED="1569825435835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$01_.coverage" NAME="01-导入包 Coverage Results" MODIFIED="1571821526188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10模块与包/myPackage" />
+    <SUITE FILE_PATH="coverage/Python$01_.coverage" NAME="01-学员管理系统 Coverage Results" MODIFIED="1572244922643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05函数加强" />
     <SUITE FILE_PATH="coverage/untitled$052_.coverage" NAME="052-字典拆包 Coverage Results" MODIFIED="1570695709824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$03_read.coverage" NAME="03-读取函数之read Coverage Results" MODIFIED="1571215195286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
     <SUITE FILE_PATH="coverage/untitled$037__.coverage" NAME="037-列表的操作-复制 Coverage Results" MODIFIED="1569648542771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1572243756803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/01-学生管理系统" />
     <SUITE FILE_PATH="coverage/untitled$004.coverage" NAME="004 Coverage Results" MODIFIED="1569308639353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$022.coverage" NAME="022 Coverage Results" MODIFIED="1569551177931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$013.coverage" NAME="013 Coverage Results" MODIFIED="1569556760195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -621,6 +708,7 @@
     <SUITE FILE_PATH="coverage/Python$015_mro.coverage" NAME="015-拓展mro Coverage Results" MODIFIED="1571641554300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/Python$10_.coverage" NAME="10-自定义异常 Coverage Results" MODIFIED="1571810526795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09异常处理" />
     <SUITE FILE_PATH="coverage/Python$managersystem.coverage" NAME="managersystem Coverage Results" MODIFIED="1571903764055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/StudentManagerSystem" />
+    <SUITE FILE_PATH="coverage/Python$cards_tools.coverage" NAME="cards_tools Coverage Results" MODIFIED="1572252034813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/02-名片管理系统" />
     <SUITE FILE_PATH="coverage/untitled$028_.coverage" NAME="028-字符串操作对齐 Coverage Results" MODIFIED="1569567244298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$050_.coverage" NAME="050-字典的循环遍历 Coverage Results" MODIFIED="1570257641959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$08_.coverage" NAME="08-文件备份实现 Coverage Results" MODIFIED="1571298277565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07文件操作" />
@@ -669,6 +757,7 @@
     <SUITE FILE_PATH="coverage/untitled$03_.coverage" NAME="03-类创建多个对象 Coverage Results" MODIFIED="1571366339554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$11_.coverage" NAME="11-全局变量的修改 Coverage Results" MODIFIED="1570676919900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
     <SUITE FILE_PATH="coverage/untitled$006.coverage" NAME="006 Coverage Results" MODIFIED="1569380568688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$01.coverage" NAME="01 Coverage Results" MODIFIED="1572230956088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonCrawler" />
     <SUITE FILE_PATH="coverage/Python$03_.coverage" NAME="03-模块的制作与调用 Coverage Results" MODIFIED="1571817871711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10模块与包" />
     <SUITE FILE_PATH="coverage/untitled$011.coverage" NAME="011 Coverage Results" MODIFIED="1569400991817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$027_.coverage" NAME="027-字符串操作删除空白 Coverage Results" MODIFIED="1569565719200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -692,6 +781,7 @@
     <SUITE FILE_PATH="coverage/untitled$030__.coverage" NAME="030-字符串操作-判断 Coverage Results" MODIFIED="1569568128838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$08__lambda.coverage" NAME="08-匿名函数-lambda参数之可变参数 Coverage Results" MODIFIED="1571120161176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数加强" />
     <SUITE FILE_PATH="coverage/untitled$054_.coverage" NAME="054-变量的引用 Coverage Results" MODIFIED="1570765642523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$managersystem__1_.coverage" NAME="managersystem (1) Coverage Results" MODIFIED="1572243581979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/01-学生管理系统" />
     <SUITE FILE_PATH="coverage/untitled$07_seek.coverage" NAME="07-文件操作seek函数 Coverage Results" MODIFIED="1571276716365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
     <SUITE FILE_PATH="coverage/untitled$01_.coverage" NAME="01-体验面向对象 Coverage Results" MODIFIED="1571365634077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/Python$09_.coverage" NAME="09-异常的传递 Coverage Results" MODIFIED="1571806369747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09异常处理" />
@@ -728,34 +818,6 @@
     <SUITE FILE_PATH="coverage/untitled$051_.coverage" NAME="051-元组拆包 Coverage Results" MODIFIED="1570695454921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08面向对象/02-类里的self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08面向对象/03-类创建多个对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08面向对象/04-类外面添加和获取对象属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08面向对象/05-类里面添加和获取对象属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08面向对象/10-面向对象的应用-搬家具.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
@@ -1034,34 +1096,62 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10模块与包/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/11项目实战/01-扩展__dict__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="79" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.data">
+    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/student.data">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.py">
+    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/student.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/StudentManagerSystem/main.py">
+    <entry file="file://$PROJECT_DIR$/11项目实战/01-扩展__dict__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonCrawler/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="104" column="22" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
         </state>
       </provider>
     </entry>
