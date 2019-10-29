@@ -8,4 +8,3 @@ class Student(object):
 
     def __str__(self):
         return f"{self.name},{self.gender},{self.tel}"
-
