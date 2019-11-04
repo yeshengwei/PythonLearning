@@ -25,11 +25,7 @@ class Gun():
         self.bullet_count -= 1
 
         # 提示发射信息
-        print(f"突突突...")
-
-
-# 创建枪对象ak47
-ak47 = Gun("AK47")
+        print(f"{self.model}突突突...[{self.bullet_count}]")
 
 
 # 创建士兵类
@@ -44,8 +40,8 @@ class Soldier():
     # 定义士兵开枪的方法
     def fire(self):
         # 判断士兵是否有枪
-        if self.gun == None:
-            print(f"该士兵没有枪!")
+        if self.gun is None:
+            print(f"{self.name}没有枪!")
             return
 
         # 士兵高喊口号
@@ -58,6 +54,9 @@ class Soldier():
         self.gun.shoot()
 
 
+# 创建枪对象ak47
+ak47 = Gun("AK47")
+
 # 创建许三多
 xusanduo = Soldier("许三多")
 
@@ -66,5 +65,3 @@ xusanduo.gun = ak47
 
 # 许三多开枪
 xusanduo.fire()
-
-print(xusanduo.gun)
