@@ -32,8 +32,10 @@ class XiaoTianQuan(Dog):
     def bark(self):
         # 针对子类特有的需求编写代码
         print("叫的跟神一样...")
-        # 使用super()调用父类的方法
+        # 使用super()调用父类的方法1
         super().bark()
+        #使用父类名称调用父类的方法2
+        # Dog.bark(self)
         # 增加其它子类的代码
         print("其它叫法")
 
