@@ -23,12 +23,14 @@ class Dog(Animal):
     def bark(self):
         print("叫---")
 
-#继承父类Dog的方法
+
+# 继承父类Dog的方法
 class XiaoTianQuan(Dog):
     def fly(self):
         print("飞")
 
-#继承父类Animal的方法
+
+# 继承父类Animal的方法
 class Cat(Animal):
     def catch(self):
         print("抓老鼠...")
@@ -41,4 +43,3 @@ wangcai.drink()
 wangcai.run()
 wangcai.sleep()
 wangcai.bark()
-

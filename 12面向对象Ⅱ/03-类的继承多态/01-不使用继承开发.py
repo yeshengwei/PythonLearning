@@ -16,6 +16,7 @@ class Animal():
     def sleep(self):
         print("睡")
 
+
 class Dog():
     def eat(self):
         print("吃")
@@ -33,10 +34,9 @@ class Dog():
         print("叫")
 
 
-wangcai=Animal()
+wangcai = Animal()
 
 wangcai.eat()
 wangcai.drink()
 wangcai.run()
 wangcai.sleep()
-

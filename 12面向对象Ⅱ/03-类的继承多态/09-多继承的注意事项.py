@@ -20,16 +20,17 @@ class B():
         print("testB")
 
 
-#继承A/B,AB类中有同名的方法
-class C(A,B):
+# 继承A/B,AB类中有同名的方法
+class C(A, B):
     pass
 
-#创建子类对象
-xiaoc=C()
 
-#如果继承多个父类有同名的方法和属性，避免使用多继承
+# 创建子类对象
+xiaoc = C()
+
+# 如果继承多个父类有同名的方法和属性，避免使用多继承
 xiaoc.test()
 xiaoc.demo()
 
-#确定C类对象调用父类方法的顺序
+# 确定C类对象调用父类方法的顺序
 print(C.__mro__)
