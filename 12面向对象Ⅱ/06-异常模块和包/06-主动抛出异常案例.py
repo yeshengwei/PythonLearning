@@ -16,6 +16,7 @@ def input_password():
     # 主动抛出异常
     raise ex
 
+
 try:
     print(input_password())
 

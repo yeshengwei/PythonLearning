@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a5e491-5869-41da-8f5a-455e54649385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/01-简单的异常捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/02-捕获错误类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/03-捕获未知错误.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/04-完整的异常语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/05-异常的传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/07-import导入模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/08-import导入指定别名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-from-import导入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/10-from-import注意事项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/11-from-import导入全部.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/12-模块的搜索顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,57 +34,45 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/01-简单的异常捕获.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/02-捕获错误类型.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/03-捕获未知错误.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/04-完整的异常语法.py">
+        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/10-from-import注意事项.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="e#120#149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/05-异常的传递.py">
+        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/11-from-import导入全部.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py">
+        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/12-模块的搜索顺序.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="132">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-from-import导入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#88#111#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,17 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10模块与包/myPackage/__init__.py" />
-        <option value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/main.py" />
-        <option value="$PROJECT_DIR$/11项目实战/01-扩展__dict__.py" />
-        <option value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/student.py" />
-        <option value="$PROJECT_DIR$/11项目实战/StudentManagerSystem/managersystem.py" />
-        <option value="$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py" />
-        <option value="$PROJECT_DIR$/05函数加强/01-学员管理系统.py" />
-        <option value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py" />
-        <option value="$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py" />
-        <option value="$PROJECT_DIR$/12面向对象Ⅱ/01-第一个面向对象.py" />
-        <option value="$PROJECT_DIR$/12面向对象Ⅱ/02-创建2个对象.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/03-设置对象属性.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/04-self理解.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/05-在外界设置对象属性的问题.py" />
@@ -149,7 +129,6 @@
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/04-类的属性方法/05-静态方法.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/04-类的属性方法/06-案例实践.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/05-单例设计/01-new方法.py" />
-        <option value="$PROJECT_DIR$/../PythonCrawler/0001.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/05-单例设计/02-单例.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/05-单例设计/03-单例初始化一次.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/01-简单的异常捕获.py" />
@@ -158,6 +137,18 @@
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/04-完整的异常语法.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/05-异常的传递.py" />
         <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/07-测试模块1.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/08-测试模块2.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-import导入模块.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module1.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module2.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/07-import导入模块.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-from-import导入.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/08-import导入指定别名.py" />
+        <option value="$PROJECT_DIR$/../PythonCrawler/0001.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/10-from-import注意事项.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/11-from-import导入全部.py" />
+        <option value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/12-模块的搜索顺序.py" />
       </list>
     </option>
   </component>
@@ -175,22 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python入门与实战" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Python入门与实战" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (Python入门与实战) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -231,29 +206,45 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python入门与实战" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Python入门与实战" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (Python入门与实战) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/12面向对象Ⅱ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\12面向对象Ⅱ\06-异常模块和包" />
+      <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\12面向对象Ⅱ" />
+      <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\08面向对象" />
+      <recent name="C:\Users\yeshengwei\PycharmProjects\untitled\08面向对象" />
+      <recent name="C:\Users\yeshengwei\PycharmProjects\untitled\文件操作" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\12面向对象Ⅱ\01-类和对象" />
       <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\10模块与包" />
       <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\10模块与包\myPackage" />
       <recent name="C:\Users\yeshengwei\PycharmProjects\untitled" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\12面向对象Ⅱ" />
-      <recent name="C:\Users\yeshengwei\PycharmProjects\Python入门与实战\08面向对象" />
-      <recent name="C:\Users\yeshengwei\PycharmProjects\untitled\08面向对象" />
-      <recent name="C:\Users\yeshengwei\PycharmProjects\untitled\文件操作" />
-      <recent name="C:\Users\yeshengwei\PycharmProjects\untitled\高阶函数" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,8 +259,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06-主动抛出异常案例">
-    <configuration name="02-捕获错误类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12-模块的搜索顺序">
+    <configuration name="0001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,12 +268,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonCrawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/02-捕获错误类型.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonCrawler/0001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-捕获未知错误" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09-from-import导入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,7 +295,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/03-捕获未知错误.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-from-import导入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-完整的异常语法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10-from-import注意事项" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +317,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/04-完整的异常语法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/10-from-import注意事项.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-异常的传递" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11-from-import导入全部" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,7 +339,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/05-异常的传递.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/11-from-import导入全部.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-主动抛出异常案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12-模块的搜索顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python入门与实战" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -370,7 +361,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/12-模块的搜索顺序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,11 +372,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06-主动抛出异常案例" />
-        <item itemvalue="Python.05-异常的传递" />
-        <item itemvalue="Python.04-完整的异常语法" />
-        <item itemvalue="Python.03-捕获未知错误" />
-        <item itemvalue="Python.02-捕获错误类型" />
+        <item itemvalue="Python.12-模块的搜索顺序" />
+        <item itemvalue="Python.11-from-import导入全部" />
+        <item itemvalue="Python.10-from-import注意事项" />
+        <item itemvalue="Python.0001" />
+        <item itemvalue="Python.09-from-import导入" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +449,12 @@
       <workItem from="1572915972998" duration="8518000" />
       <workItem from="1573002193399" duration="12009000" />
       <workItem from="1573087774990" duration="4123000" />
-      <workItem from="1573184856190" duration="6426000" />
+      <workItem from="1573184856190" duration="7322000" />
+      <workItem from="1573444770051" duration="5044000" />
+      <workItem from="1573521115479" duration="1348000" />
+      <workItem from="1574040915201" duration="1198000" />
+      <workItem from="1574219560819" duration="3278000" />
+      <workItem from="1574300016518" duration="7059000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571041666584</created>
@@ -684,11 +680,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573116956838</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update">
+      <created>1573203412933</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1573203412933</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367032000" />
+    <option name="totallyTimeSpent" value="385855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,9 +704,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.23439412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.23806609" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.19263607" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -718,7 +720,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005952" side_tool="true" weight="0.18331504" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.7037037" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.6891304" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49940476" side_tool="true" visible="true" weight="0.22972973" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49940476" side_tool="true" visible="true" weight="0.18806307" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -726,6 +728,30 @@
       <window_info anchor="right" id="Database" order="4" weight="0.32986537" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.17625459" />
+      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.19263607" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32821077" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3975225" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32934782" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005952" side_tool="true" weight="0.18331504" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7037037" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.6891304" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49940476" side_tool="true" visible="true" weight="0.5011261" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32986537" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -768,6 +794,7 @@
     <SUITE FILE_PATH="coverage/untitled$004.coverage" NAME="004 Coverage Results" MODIFIED="1569308639353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$022.coverage" NAME="022 Coverage Results" MODIFIED="1569551177931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$013.coverage" NAME="013 Coverage Results" MODIFIED="1569556760195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$07_import.coverage" NAME="07-import导入模块 Coverage Results" MODIFIED="1574302240261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <SUITE FILE_PATH="coverage/untitled$05_.coverage" NAME="05-类里面添加和获取对象属性 Coverage Results" MODIFIED="1571367419422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$14__.coverage" NAME="14-函数返回值-多个 Coverage Results" MODIFIED="1570688059789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
     <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07-父类的公有方法 Coverage Results" MODIFIED="1572934347617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/03-继承多态" />
@@ -812,6 +839,7 @@
     <SUITE FILE_PATH="coverage/untitled$055_.coverage" NAME="055-引用实参传入 Coverage Results" MODIFIED="1570766199485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$10__.coverage" NAME="10-面向对象的应用-搬家具 Coverage Results" MODIFIED="1571385545174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$020.coverage" NAME="020 Coverage Results" MODIFIED="1569485396552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$09_from_import.coverage" NAME="09-from-import导入 Coverage Results" MODIFIED="1574316080756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <SUITE FILE_PATH="coverage/untitled$042_.coverage" NAME="042-体验元组 Coverage Results" MODIFIED="1569821946759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$01___dict__.coverage" NAME="01-扩展__dict__ Coverage Results" MODIFIED="1571904303155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战" />
     <SUITE FILE_PATH="coverage/untitled$000_test.coverage" NAME="000-test Coverage Results" MODIFIED="1571284174130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01基础入门" />
@@ -842,6 +870,8 @@
     <SUITE FILE_PATH="coverage/Python$00_test.coverage" NAME="00-test Coverage Results" MODIFIED="1571801673142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01基础入门" />
     <SUITE FILE_PATH="coverage/untitled$007.coverage" NAME="007 Coverage Results" MODIFIED="1569550270257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$06_init.coverage" NAME="06-体验魔法方法init Coverage Results" MODIFIED="1571370928611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
+    <SUITE FILE_PATH="coverage/Python$08_import.coverage" NAME="08-import导入指定别名 Coverage Results" MODIFIED="1574302951669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
+    <SUITE FILE_PATH="coverage/Python$12_.coverage" NAME="12-模块的搜索顺序 Coverage Results" MODIFIED="1574318947607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <SUITE FILE_PATH="coverage/untitled$03_.coverage" NAME="03-类创建多个对象 Coverage Results" MODIFIED="1571366339554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$11_.coverage" NAME="11-全局变量的修改 Coverage Results" MODIFIED="1570676919900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
     <SUITE FILE_PATH="coverage/untitled$006.coverage" NAME="006 Coverage Results" MODIFIED="1569380568688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -855,6 +885,7 @@
     <SUITE FILE_PATH="coverage/untitled$045__.coverage" NAME="045-字典的操作-创建字典 Coverage Results" MODIFIED="1569824344754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$014_.coverage" NAME="014-子类重写父类同名属性和方法 Coverage Results" MODIFIED="1571641422835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$035__.coverage" NAME="035-列表的操作-删除 Coverage Results" MODIFIED="1569647600573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$10_from_import.coverage" NAME="10-from-import注意事项 Coverage Results" MODIFIED="1574318518748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <SUITE FILE_PATH="coverage/untitled$017.coverage" NAME="017 Coverage Results" MODIFIED="1569480650706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$09_.coverage" NAME="09-文件和文件夹操作 Coverage Results" MODIFIED="1571303062059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07文件操作" />
     <SUITE FILE_PATH="coverage/untitled$033__.coverage" NAME="033-列表的操作-判断案例 Coverage Results" MODIFIED="1569570064536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -872,6 +903,7 @@
     <SUITE FILE_PATH="coverage/untitled$08__lambda.coverage" NAME="08-匿名函数-lambda参数之可变参数 Coverage Results" MODIFIED="1571120161176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数加强" />
     <SUITE FILE_PATH="coverage/untitled$054_.coverage" NAME="054-变量的引用 Coverage Results" MODIFIED="1570765642523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$managersystem__1_.coverage" NAME="managersystem (1) Coverage Results" MODIFIED="1572243581979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11项目实战/01-学生管理系统" />
+    <SUITE FILE_PATH="coverage/Python$11_from_import.coverage" NAME="11-from-import导入全部 Coverage Results" MODIFIED="1574318648380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包" />
     <SUITE FILE_PATH="coverage/untitled$07_seek.coverage" NAME="07-文件操作seek函数 Coverage Results" MODIFIED="1571276716365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
     <SUITE FILE_PATH="coverage/untitled$01_.coverage" NAME="01-体验面向对象 Coverage Results" MODIFIED="1571365634077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/Python$module01.coverage" NAME="module01 Coverage Results" MODIFIED="1571817865781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10模块与包" />
@@ -881,8 +913,9 @@
     <SUITE FILE_PATH="coverage/Python$14_.coverage" NAME="14-子类重写父类同名属性和方法 Coverage Results" MODIFIED="1571643083516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/Python$17_.coverage" NAME="17-类的多层继承 Coverage Results" MODIFIED="1571647067958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$09__lambda.coverage" NAME="09-匿名函数-lambda带判断 Coverage Results" MODIFIED="1571120678033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数加强" />
-    <SUITE FILE_PATH="coverage/Python$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1572941833407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonCrawler" />
+    <SUITE FILE_PATH="coverage/Python$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1574316672547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonCrawler" />
     <SUITE FILE_PATH="coverage/untitled$05__lambda.coverage" NAME="05-匿名函数-lambda参数之无参数 Coverage Results" MODIFIED="1571118070377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数加强" />
+    <SUITE FILE_PATH="coverage/Python$11__.coverage" NAME="11-列表的操作-查找 Coverage Results" MODIFIED="1574225437183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03数据序列" />
     <SUITE FILE_PATH="coverage/Python$24_.coverage" NAME="24-类方法 Coverage Results" MODIFIED="1571733643168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/untitled$009.coverage" NAME="009 Coverage Results" MODIFIED="1569396017677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$07_.coverage" NAME="07-函数嵌套调用应用 Coverage Results" MODIFIED="1570673244286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数学习" />
@@ -910,76 +943,6 @@
     <SUITE FILE_PATH="coverage/untitled$051_.coverage" NAME="051-元组拆包 Coverage Results" MODIFIED="1570695454921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/01-扩展__dict__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/01-学生管理系统/managersystem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05函数加强/01-学员管理系统.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="104" column="22" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11项目实战/02-名片管理系统/cards_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/01-类和对象/01-第一个面向对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/01-类和对象/02-创建2个对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/01-类和对象/03-设置对象属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/01-类和对象/04-self理解.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1154,13 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PythonCrawler/0001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/02-类的封装创建/01-案例实践-爱跑步.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1238,10 +1194,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03数据序列/11-列表的操作-查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03数据序列/29-字典的操作-查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/06-主动抛出异常案例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/07-import导入模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#88#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/08-import导入指定别名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#88#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonCrawler/0001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/module2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/10-from-import注意事项.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#120#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/09-from-import导入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#88#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/11-from-import导入全部.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12面向对象Ⅱ/06-异常模块和包/12-模块的搜索顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
