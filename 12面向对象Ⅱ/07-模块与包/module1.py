@@ -3,7 +3,9 @@
 # Author: yeshengwei
 # E-mail: shw.ye@qq.com
 
-title="module01"
+title = "module01"
+
+
 def say_hello():
     print(f"我是{title}")
 

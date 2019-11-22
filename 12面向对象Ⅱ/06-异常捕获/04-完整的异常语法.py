@@ -21,4 +21,4 @@ else:
 finally:
     print("无论是否出现错误都会被执行的代码")
 
-print("-"*50)
+print("-" * 50)

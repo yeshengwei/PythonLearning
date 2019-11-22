@@ -11,8 +11,6 @@ try:
 except ValueError:
     print("请输入正确的整数！")
 
-#捕获所有未知错误：
+# 捕获所有未知错误：
 except Exception as result:
     print(f"未知错误：{result}")
-
-

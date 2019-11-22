@@ -15,4 +15,3 @@ except ZeroDivisionError:
 # 针对不同错误类型，进行不同的处理方式：
 except ValueError:
     print("请确认输入值为整数！")
-
